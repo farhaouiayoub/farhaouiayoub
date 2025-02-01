@@ -20,22 +20,32 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)  
+
 
 ### **Frameworks & Libraries**  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ### **Tools & Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+
+### 🎨 **Design & Video Editing**  
+Je maîtrise plusieurs outils de design et de création visuelle :  
+- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2300C8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)   **Adobe Photoshop** – Retouche d'images et création graphique.  
+- ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)   **Adobe Illustrator** – Design vectoriel et création de logos.  
+- ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)   **Adobe InDesign** – Mise en page et conception de documents professionnels.  
+- ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239900FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)  ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239900FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)   **Montage Vidéo** – Actuellement en apprentissage sur **Adobe Premiere Pro** et **After Effects**.  
 
 ---
 
@@ -65,5 +75,3 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 
 ---
 
-✨ **Fun Fact:** I start my day with a cup of coffee ☕ and a design/engineering podcast!  
-⭐️ **Open to internships, projects, or brainstorming sessions!**  
