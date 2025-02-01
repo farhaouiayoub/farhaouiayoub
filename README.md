@@ -20,32 +20,38 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 
 
 ### **Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 
-### **Tools & Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+### **Tools & Databases & OS**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
 
 
 ### 🎨 **Design & Video Editing**  
 Je maîtrise plusieurs outils de design et de création visuelle :  
-- ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2300C8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)   **Adobe Photoshop** – Retouche d'images et création graphique.  
-- ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)   **Adobe Illustrator** – Design vectoriel et création de logos.  
-- ![InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)   **Adobe InDesign** – Mise en page et conception de documents professionnels.  
-- ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239900FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)  ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239900FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)   **Montage Vidéo** – Actuellement en apprentissage sur **Adobe Premiere Pro** et **After Effects**.  
+- 🖌️ **Adobe Photoshop** – Retouche d'images et création graphique.  
+- 🎨 **Adobe Illustrator** – Design vectoriel et création de logos.  
+- 📖 **Adobe InDesign** – Mise en page et conception de documents professionnels.  
+- 🎬 **Montage Vidéo** – Actuellement en apprentissage sur **Adobe Premiere Pro** et **After Effects**.  
+
 
 ---
 
@@ -69,9 +75,13 @@ Je maîtrise plusieurs outils de design et de création visuelle :
 ---
 
 ## 🌐 Let's Connect!  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />(https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/farhaouiayoub)  
 - [![Email](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubefarhaoui16@gmail.com)  
 
 ---
 
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+ 
