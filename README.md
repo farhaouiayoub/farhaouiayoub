@@ -1,9 +1,8 @@
 # Hi there, I'm Ayoub Farhaoui! 👋
-<div align="center" >
+
 [![GitHub Followers](https://img.shields.io/github/followers/farhaouiayoub?label=Follow%20Me&style=social)](https://github.com/farhaouiayoub)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubefarhaoui16@gmail.com)  
-</div>
 
 ---
 
@@ -65,16 +64,14 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 
 
 ### 🎨 **Design & Video Editing**  
-Je maîtrise plusieurs outils de design et de création visuelle :  
-- 🖌️ **Adobe Photoshop** – Retouche d'images et création graphique.  
-- 🎨 **Adobe Illustrator** – Design vectoriel et création de logos.  
-- 📖 **Adobe InDesign** – Mise en page et conception de documents professionnels.  
-- 🎬 **Montage Vidéo** – Actuellement en apprentissage sur **Adobe Premiere Pro** et **After Effects**.  
+I have experience with various design and visual creation tools:  
+- 🖌️ **Adobe Photoshop** – Image retouching and graphic design.  
+- 🎨 **Adobe Illustrator** – Vector design and logo creation.  
+- 📖 **Adobe InDesign** – Layout and professional document design.  
+- 🎬 **Video Editing** – Currently learning **Adobe Premiere Pro** and **After Effects**.  
 
-
----
-
-## 🔥 Featured Projects  
+<!--
+ ## 🔥 Featured Projects  
 1. **[Web App for Online Magazine (Laravel/PHP)](https://github.com/farhaouiayoub/magazine-app)**  
    A secure and scalable platform for managing online magazines, with a dashboard for statistical analysis.  
 
@@ -83,15 +80,12 @@ Je maîtrise plusieurs outils de design et de création visuelle :
 
 3. **[E-commerce Platform (Java/Spring)](https://github.com/farhaouiayoub/ecom-platform)**  
    Built a scalable backend for an online store with secure payment integration.  
-
+-->
 ---
 ## 📈 GitHub Stats  
-<div align="center" >
 ![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhaouiayoub&show_icons=true&theme=radical&hide_border=true)  
-</div>
-<div align="center" >
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaouiayoub&layout=compact&theme=dark&hide_border=true)  
-</div>
 
 ---
 
