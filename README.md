@@ -1,8 +1,10 @@
+<div align="center" >
 # Hi there, I'm Ayoub Farhaoui! 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/farhaouiayoub?label=Follow%20Me&style=social)](https://github.com/farhaouiayoub)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubefarhaoui16@gmail.com)  
+</div>
 
 ---
 
@@ -19,8 +21,9 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 
 ## 🛠️ Tech Stack  
 
-### **Languages** 
 <div align="center" >
+### **Languages** 
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -39,8 +42,8 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
   </div>
 
 
-### **Frameworks & Libraries**  
 <div align="center" >
+### **Frameworks & Libraries**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
     <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -49,8 +52,8 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 </div>
 
 
-### **Tools & Databases & OS**  
 <div align="center" >
+### **Tools & Databases & OS**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -85,11 +88,12 @@ Je maîtrise plusieurs outils de design et de création visuelle :
    Built a scalable backend for an online store with secure payment integration.  
 
 ---
-
+<div align="center" >
 ## 📈 GitHub Stats  
 ![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhaouiayoub&show_icons=true&theme=radical&hide_border=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaouiayoub&layout=compact&theme=dark&hide_border=true)  
+</div>
 
 ---
 
