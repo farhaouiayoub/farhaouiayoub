@@ -1,69 +1,69 @@
 # Hi there, I'm Ayoub Farhaoui! 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/ayoubfarhaoui?label=Follow%20Me&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![GitHub Followers](https://img.shields.io/github/followers/farhaouiayoub?label=Follow%20Me&style=social)](https://github.com/farhaouiayoub)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubefarhaoui16@gmail.com)  
 
-### 🚀 **About Me**
+---
+
+## 🚀 About Me  
 I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passion for blending creativity and technology.  
-- 💡 **Problem-Solver** | Thrive on tackling challenges with analytical thinking and elegant solutions.
-- 🎨 **UI/UX Design Enthusiast** | Crafting intuitive interfaces that balance aesthetics and functionality.
-- 📽️ **Video Editing Hobbyist** | Transforming ideas into visual stories with tools like **Premiere Pro** & **After Effects**.
-- 🚀 **Continuous Learner** | Exploring new frameworks, design trends, and collaborative projects.
-- 🌱 Currently diving deeper into **React**, **Design Systems**, and **Cloud Technologies**.
-- 📫 Let’s connect: **ayoub.farhaoui@example.com** *(replace with your email!)*
-- 😄 Pronouns: **He/Him**
+
+- 💡 **Problem-Solver** | I enjoy tackling challenges with analytical thinking and elegant solutions.  
+- 🎨 **UI/UX Design Enthusiast** | Crafting intuitive interfaces that balance aesthetics and functionality.  
+- 🚀 **Continuous Learner** | Exploring new frameworks, design trends, and collaborative projects.  
+- 🌱 Currently diving deeper into **React**, **Laravel**, and **Cloud Technologies**.  
+- 📫 Let’s connect: **ayoubefarhaoui16@gmail.com**  
 
 ---
 
-### 🛠️ **Tech Stack**
-**Languages**:  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
+## 🛠️ Tech Stack  
 
-**Frameworks & Libraries**:  
-![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)
+### **Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Tools & Design**:  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-%23EA77FF?logo=adobe-premiere-pro)
-![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
+### **Frameworks & Libraries**  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
----
-
-### 🔥 **Featured Projects**
-1. **[E-commerce Platform (Java/Spring)](https://github.com/yourusername/ecom-platform)**  
-   Built a scalable backend for an online store with secure payment integration.
-
-2. **[Portfolio Builder Tool (React/Figma)](https://github.com/yourusername/portfolio-builder)**  
-   A drag-and-drop UI for creating personalized portfolios, paired with responsive design templates.
-
-3. **[Video Editing Template Library (After Effects)](https://github.com/yourusername/ae-templates)**  
-   Open-source motion graphics templates for content creators.
-
-4. **Open Source Contributor**  
-   Contributed UI improvements to **[Project Name](https://github.com/opensourcerepo)**.
+### **Tools & Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
 ---
 
-### 📈 **GitHub Stats**
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+## 🔥 Featured Projects  
+1. **[Web App for Online Magazine (Laravel/PHP)](https://github.com/farhaouiayoub/magazine-app)**  
+   A secure and scalable platform for managing online magazines, with a dashboard for statistical analysis.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+2. **[Maze Game in C++ using Raylib](https://github.com/farhaouiayoub/maze-game)**  
+   An interactive maze game applying OOP principles and utilizing Raylib for graphics.  
+
+3. **[E-commerce Platform (Java/Spring)](https://github.com/farhaouiayoub/ecom-platform)**  
+   Built a scalable backend for an online store with secure payment integration.  
 
 ---
 
-### 🌐 **Let's Collaborate!**
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Behance](https://behance.net/yourprofile) *(for UI/UX work!)*
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
-- [Instagram](https://instagram.com/yourhandle) *(for creative edits!)*
+## 📈 GitHub Stats  
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhaouiayoub&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaouiayoub&layout=compact&theme=dark&hide_border=true)  
+
+---
+
+## 🌐 Let's Connect!  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github)](https://github.com/farhaouiayoub)  
+- [![Email](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubefarhaoui16@gmail.com)  
 
 ---
 
 ✨ **Fun Fact:** I start my day with a cup of coffee ☕ and a design/engineering podcast!  
-⭐️ **Open to internships, projects, or brainstorming sessions!**
+⭐️ **Open to internships, projects, or brainstorming sessions!**  
