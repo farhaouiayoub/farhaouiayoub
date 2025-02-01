@@ -48,6 +48,7 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
+
 ### **Tools & Databases & OS**  
 <div align="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -62,13 +63,14 @@ I’m a **3rd-Year Software Engineering Student** at **FST Tanger** with a passi
 </div>
 
 
-
-### 🎨 **Design & Video Editing**  
-I have experience with various design and visual creation tools:  
-- 🖌️ **Adobe Photoshop** – Image retouching and graphic design.  
-- 🎨 **Adobe Illustrator** – Vector design and logo creation.  
-- 📖 **Adobe InDesign** – Layout and professional document design.  
-- 🎬 **Video Editing** – Currently learning **Adobe Premiere Pro** and **After Effects**.  
+### **Design & Video Editing**  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+</div> 
 
 <!--
  ## 🔥 Featured Projects  
@@ -95,4 +97,3 @@ I have experience with various design and visual creation tools:
 - [![Email](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubefarhaoui16@gmail.com)  
 
 ---
-
