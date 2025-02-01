@@ -1,4 +1,4 @@
-# Hi there, I'm Ayoub Farhaoui! 👋
+# Hello, I'm Ayoub Farhaoui! 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/farhaouiayoub?label=Follow%20Me&style=social)](https://github.com/farhaouiayoub)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayoub-farhaoui-ab5562243/)  
